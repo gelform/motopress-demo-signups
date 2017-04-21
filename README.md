@@ -7,7 +7,7 @@ This is WordPress plugin that adds a signups page to (Motopress Demo Builder) [g
 1. Unzip into `/wp-content/pluginsmotopress-demo-signups`
 
 
-##What it does
+## What it does
 
 It adds a network admin menu item under "demo" called "signups". 
 http://prntscr.com/eyv33d
